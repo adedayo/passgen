@@ -19,7 +19,7 @@ follows:
 ```
 java -jar target/passgen.jar --help
 
-passgen 1.0
+passgen 1.0.0
 Usage: passgen [options]
 
 DESCRIPTION
