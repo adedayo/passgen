@@ -35,9 +35,9 @@
 
 
     <scm>
-        <connection>scm:git:git@github.com:adedayo/password-generator.git</connection>
-        <developerConnection>scm:git:git@github.com:adedayo/password-generator.git</developerConnection>
-        <url>git@github.com:adedayo/password-generator.git</url>
+        <connection>scm:git:git@github.com:adedayo/passgen.git</connection>
+        <developerConnection>scm:git:git@github.com:adedayo/passgen.git</developerConnection>
+        <url>git@github.com:adedayo/passgen.git</url>
     </scm>
 
     <properties>
