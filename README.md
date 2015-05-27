@@ -61,13 +61,13 @@ which pads the result with various combinations of "1" and "2" on both side
 Transforms
 ----------
 
-* ''''leet'''' : transforms the supplied words to a basic "leet" form
-* ''''leetAdvanced'''' : a somewhat more sophisticated "leet" format, as might be used by those that think they are security savvy
-* ''''leetUltimate'''' : should generate transformations that may catch leet nerds :-)
-* ''''case'''' : creates various case permutations of the supplied words
-* ''''pad'''' : pads the supplied words at various positions with the supplied padding when used with *-p* option
-* ''''padLeft'''' : prefixes the words with the supplied pads when used with *-p* option
-* ''''padRight'''' : suffixes the words with the supplied pads when used with *-p* option
+* **leet** : transforms the supplied words to a basic "leet" form
+* **leetAdvanced** : a somewhat more sophisticated "leet" format, as might be used by those that think they are security savvy
+* **leetUltimate** : should generate transformations that may catch leet nerds :-)
+* **case** : creates various case permutations of the supplied words
+* **pad** : pads the supplied words at various positions with the supplied padding when used with *-p* option
+* **padLeft** : prefixes the words with the supplied pads when used with *-p* option
+* **padRight** : suffixes the words with the supplied pads when used with *-p* option
 
 
 Building
